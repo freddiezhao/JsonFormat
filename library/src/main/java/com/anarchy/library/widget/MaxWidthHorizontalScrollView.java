@@ -9,7 +9,6 @@ import android.widget.HorizontalScrollView;
 /**
  * User:  Anarchy
  * Email:  rsshinide38@163.com
- * CreateTime: 四月/01/2016  21:47.
  * Description:
  */
 public class MaxWidthHorizontalScrollView extends HorizontalScrollView {

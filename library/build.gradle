@@ -1,5 +1,28 @@
 apply plugin: 'com.android.library'
 
+ext {
+    bintrayRepo = 'maven'
+    bintrayName = 'JsonFormat'
+
+    publishedGroupId = 'com.anarchy.lib'
+    libraryName = 'JsonFormatDialog'
+    artifact = 'library'
+
+    libraryDescription = 'json format dialog component'
+
+    siteUrl = 'https://github.com/AlphaBoom/JsonFormat'
+    gitUrl = 'https://github.com/AlphaBoom/JsonFormat.git'
+
+    libraryVersion = '0.5.0'
+
+    developerId = 'anarchy'
+    developerName = 'zhendong wu'
+    developerEmail = 'rsshinide38@gmail.com'
+
+    licenseName = 'The Apache Software License, Version 2.0'
+    licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
+    allLicenses = ["Apache-2.0"]
+}
 android {
     compileSdkVersion 23
     buildToolsVersion "23.0.2"
@@ -24,3 +47,5 @@ dependencies {
     compile 'com.android.support:appcompat-v7:23.2.0'
     compile 'com.android.support:recyclerview-v7:23.2.0'
 }
+apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/installv1.gradle'
+apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/bintrayv1.gradle'

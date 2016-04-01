@@ -12,10 +12,8 @@ import android.widget.FrameLayout;
 
 /**
  * Version 1.0
- * <p/>
  * Date: 15/11/30 17:38
  * Author: zhendong.wu@shoufuyou.com
- * <p/>
  * Copyright © 2014-2015 Shanghai Xiaotu Network Technology Co., Ltd.
  */
 public abstract class BaseDialogFragment extends DialogFragment {
