@@ -2,6 +2,7 @@
 
  显示效果 类似 [http://json.cn](http://json.cn) 
  主要目的就是方便测试，本来以为这个肯定很多了 居然没人做。效果我觉得还可以，只是在测试时候使用。所以性能上也不会有太高要求。
+ 示例展示的数据 来自 [http://apistore.baidu.com/apiworks/servicedetail/515.html](http://apistore.baidu.com/apiworks/servicedetail/515.html)
  
 #运行截图
 ![](https://raw.githubusercontent.com/AlphaBoom/JsonFormat/master/screenshots/jsonformatdialog.gif)
