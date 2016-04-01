@@ -135,10 +135,6 @@ public class JsonAdapter extends RecyclerView.Adapter<JsonAdapter.ItemViewHolder
         holder.leftText.setText(keyBuilder);
         holder.rightText.setVisibility(View.VISIBLE);
         SpannableStringBuilder valueBuilder = new SpannableStringBuilder();
-        if(value == null){
-            valueBuilder.append(null);
-            valueBuilder.setSpan(new ForegroundColorSpan(0xFFF1592A),0,valueBuilder.length(),Spanned.SPAN_EXCLUSIVE_EXCLUSIVE);
-        }
         if(value instanceof Number){
             valueBuilder.append(value.toString());
             valueBuilder.setSpan(new ForegroundColorSpan(0xFF25AAE2),0,valueBuilder.length(),Spanned.SPAN_EXCLUSIVE_EXCLUSIVE);
@@ -159,6 +155,10 @@ public class JsonAdapter extends RecyclerView.Adapter<JsonAdapter.ItemViewHolder
         if(value instanceof String){
             valueBuilder.append("\"").append(value.toString()).append("\"");
             valueBuilder.setSpan(new ForegroundColorSpan(0xFF3AB54A),0,valueBuilder.length(),Spanned.SPAN_EXCLUSIVE_EXCLUSIVE);
+        }
+        if(valueBuilder.length()==0||value==null){
+            valueBuilder.append("null");
+            valueBuilder.setSpan(new ForegroundColorSpan(0xFFF1592A),0,valueBuilder.length(),Spanned.SPAN_EXCLUSIVE_EXCLUSIVE);
         }
         if(appendComma){
             valueBuilder.append(",");
