@@ -28,16 +28,16 @@ public class JsonAdapter extends RecyclerView.Adapter<JsonAdapter.ItemViewHolder
     private JSONObject mJSONObject;
     private JSONArray mJSONArray;
     private final static String SIX_SPACE = "      ";
-
+    private String errorMsg;
     public JsonAdapter(String string) {
         try {
             mJSONObject = new JSONObject(string);
         } catch (JSONException e) {
-
+            errorMsg = e.getMessage();
             try {
                 mJSONArray = new JSONArray(string);
             } catch (JSONException e1) {
-                e1.printStackTrace();
+               errorMsg = errorMsg +"---"+e1.getMessage();
             }
         }
     }
@@ -72,7 +72,7 @@ public class JsonAdapter extends RecyclerView.Adapter<JsonAdapter.ItemViewHolder
         resetVisibility(holder);
         if (mJSONArray == null && mJSONObject == null) {
             holder.leftText.setVisibility(View.VISIBLE);
-            holder.leftText.setText("不是有效的json格式");
+            holder.leftText.setText("不是有效的json格式:"+errorMsg);
             return ;
         }
         if (mJSONObject != null) {

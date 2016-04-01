@@ -11,6 +11,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -22,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void show(View view){
         try {
+            /*json 数据 来自 http://apistore.baidu.com/apiworks/servicedetail/515.html*/
             InputStream in =  getAssets().open("json");
             BufferedReader reader = new BufferedReader(new InputStreamReader(in));
             StringBuffer buffer = new StringBuffer();

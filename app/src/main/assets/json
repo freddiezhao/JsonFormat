@@ -1,1 +1,1168 @@
-{"flight_order":{"id":207,"user_id":2000040,"order_number":"F20160128135505454","down_payment":"208.00","monthly_payment":"208.00","periods":11,"amount":"2496.00","created_time":"2016-03-14 20:36:06","name":"\u4e01\u529b","mobile":"18817301130","email":"yzdl1993@163.com","id_card_number":"321023199309273025","tourist_number":1,"status":"canceled","refund_status":"none","fund_status":"none","tz_status":"WAIT_PAY","fund_request_amount":"0.00","fund_request_time":null,"emergency_contact":"\u9648\u5efa\u8f89","emergency_contact_mobile":"18516354774","emergency_contact_relation":"parents","freight_rule":"\u3010\u7279\u6b8a\u4ea7\u54c1\uff0c\u9000\u6362\u6709\u635f\u5931\uff0c\u8bf7\u614e\u91cd\u8d2d\u4e70\u3011<br\/>\u9000\u6539\u7b7e\u89c4\u5219:<br\/>\u9000\u7968\uff1a\u9000\u7968\u6536\u53d62000.0\u4eba\u6c11\u5e01\u3002<br\/>\u6539\u7b7e\uff1a\u6539\u671f\u6536\u53d61000.0\u4eba\u6c11\u5e01(\u4e0d\u542b\u5dee\u4ef7)\u3002\u6362\u5f00\u6536\u53d61000.0\u4eba\u6c11\u5e01(\u4e0d\u542b\u5dee\u4ef7)\u3002<br\/>\u505c\u7559\u65f6\u95f4\u89c4\u5219:<br\/>\u6700\u77ed\u505c\u7559\u65f6\u95f4\uff1a\u6700\u957f\u505c\u7559\u65f6\u95f4\uff1a<br\/>\u65c5\u884c\u51fa\u53d1\u65f6\u95f4:\u5fc5\u987b\u57282016.03.31\u6216\u4e4b\u524d\u51fa\u53d1\u3002<br\/>\u6ce8\u610f\u4e8b\u9879\uff1a\u4ee5\u4e0a\u8fd0\u4ef7\u89c4\u5219\u4ee5\u822a\u7a7a\u516c\u53f8\u4e3a\u51c6\uff0c\u6216\u81f4\u7535\u9000\u6539\u70ed\u7ebf\u54a8\u8be2 \u3002","from_city":"\u4e0a\u6d77","to_city":"\u5e03\u9c81\u585e\u5c14","departure_date":"2016-02-29","return_date":null,"is_return":0,"airline_company":"\u6d77\u5357\u7701\u822a\u7a7a\u516c\u53f8","freight_rule_query_id":"{\"rule\":[\"{\\\"ibeplusShoppingFareRuleQueryList\\\":[\\\"{\\\\\\\"departureAirport\\\\\\\":\\\\\\\"SHA\\\\\\\",\\\\\\\"arrivalAirport\\\\\\\":\\\\\\\"BRU\\\\\\\",\\\\\\\"departureDate\\\\\\\":\\\\\\\"2016-02-29\\\\\\\",\\\\\\\"departureTime\\\\\\\":\\\\\\\"20:40\\\\\\\",\\\\\\\"filingAirline\\\\\\\":\\\\\\\"HU\\\\\\\",\\\\\\\"fareReference\\\\\\\":\\\\\\\"ELOW1CNF\\\\\\\",\\\\\\\"ref1\\\\\\\":\\\\\\\"GEPY01(USER(SHA,\\\\\\\\u00271E\\\\\\\\u0027,\\\\\\\\u0026lt;\\\\\\\\u0026gt;,Y,DEPT(\\\\\\\\u0026lt;\\\\\\\\u0026gt;,\\\\\\\\u0026lt;\\\\\\\\u0026gt;),\\\\\\\\u0026lt;\\\\\\\\u0026gt;,\\\\\\\\u0026lt;\\\\\\\\u0026gt;,\\\\\\\\u0026lt;\\\\\\\\u0026gt;),PF2(Y,[(AGENCY(SHA255),IATANUM(\\\\\\\\u002708307736\\\\\\\\u0027),N)],[],[],[],N,\\\\\\\\u0026lt;\\\\\\\\u0026gt;),\\\\\\\\u0026lt;\\\\\\\\u0026gt;)\\\\\\\",\\\\\\\"ref2\\\\\\\":\\\\\\\"004TF02EHNADTN0010000500ATP3U\\\\\\\"}\\\"],\\\"optionals\\\":[\\\"IBEPLUS_SHOPPING_FARE_RULE_QUERY_LIST\\\"]}\"],\"source\":\"IBEPLUS\",\"priceVerify\":\"{\\\"passengerTypes\\\":[\\\"ADT\\\"],\\\"airCompany\\\":\\\"HU\\\",\\\"flights\\\":[{\\\"airCompany\\\":\\\"HU\\\",\\\"flightNumber\\\":\\\"7602\\\",\\\"bookingClass\\\":\\\"Y\\\",\\\"equipType\\\":\\\"787\\\",\\\"departureAirport\\\":\\\"SHA\\\",\\\"arrivalAirport\\\":\\\"PEK\\\",\\\"departureDateTime\\\":\\\"2016-02-29 20:40\\\",\\\"arrivalDateTime\\\":\\\"2016-02-29 22:55\\\"},{\\\"airCompany\\\":\\\"HU\\\",\\\"flightNumber\\\":\\\"491\\\",\\\"bookingClass\\\":\\\"E\\\",\\\"equipType\\\":\\\"333\\\",\\\"departureAirport\\\":\\\"PEK\\\",\\\"arrivalAirport\\\":\\\"BRU\\\",\\\"departureDateTime\\\":\\\"2016-03-01 01:45\\\",\\\"arrivalDateTime\\\":\\\"2016-03-01 05:45\\\"}]}\",\"cabinVerify\":\"{\\\"pseudoCityCode\\\":\\\"SHA255\\\",\\\"ibePlusBookingClassDetailsList\\\":[{\\\"departureDateTime\\\":\\\"2016-02-29\\\",\\\"flightNumber\\\":\\\"7602\\\",\\\"airlineCode\\\":\\\"HU\\\",\\\"fromAirport\\\":\\\"SHA\\\",\\\"toAirport\\\":\\\"PEK\\\",\\\"bookingClass\\\":\\\"Y\\\",\\\"seatLeft\\\":-1},{\\\"departureDateTime\\\":\\\"2016-03-01\\\",\\\"flightNumber\\\":\\\"491\\\",\\\"airlineCode\\\":\\\"HU\\\",\\\"fromAirport\\\":\\\"PEK\\\",\\\"toAirport\\\":\\\"BRU\\\",\\\"bookingClass\\\":\\\"E\\\",\\\"seatLeft\\\":-1}]}\",\"routeId\":\"IBEPLUS_35730477\"}","departure_time":"2016-02-29 20:40:00","utm_source":"","terminal":"mobile","adult_face_price":"1000.00","adult_all_tax":"1380.00","sfy_fee":"9.00","tz_order_id":"1601281445562419","product_name":"\u4e0a\u6d77\u5230\u5e03\u9c81\u585e\u5c14\u5355\u7a0b\u673a\u7968","ticket_number":null,"confirmed_time":null,"refund_down_payment_amount":"0.00","refund_fund_amount":"0.00","flight_info":"\u4e58\u673a\u4eba\uff1aDING\/LI\uff0c\u8bc1\u4ef6\u53f7\u7801\uff1aE45531754\u3002\u6d77\u5357\u7701\u822a\u7a7a\u516c\u53f8HU7602\uff0c\u8679\u6865\u56fd\u9645\u673a\u573aT2-\u5e03\u9c81\u585e\u5c14\u56fd\u9645\u673a\u573a\uff0c02\u670829\u65e520:40\u8d77\u98de\uff0c\u9996\u90fd\u56fd\u9645\u673a\u573a\u4e2d\u8f6c\uff0c03\u670801\u65e505:45\u5230\u8fbe\u3002","refund_reason":"","refund_approve_time":null,"is_direct":null,"tz_refund_order_id":null,"tz_payment_total_price":null,"tz_settlement":null,"status_name":"\u5df2\u53d6\u6d88"},"passengers":{"id":131,"order_id":207,"name":"\u4e01\u529b","gender":"F","type":"ADU","credentials_type":"passport","credentials_number":"E45531754","credentials_expiry_time":"2025-03-08","birthday":"1993-09-27","nationality":"CN","mobile":"18817301130","first_name_spelling":"LI","last_name_spelling":"DING","pnr_text":"HYVQ5Y","email":"yzdl1993@163.com","id_card_number":"321023199309273025"},"segments":[{"id":457,"order_id":207,"from_city_code":"SHA","to_city_code":"BRU","from_airport_code":"SHA","to_airport_code":"PEK","to_date":"2016-02-29 22:55:00","from_date":"2016-02-29 20:40:00","flight_no":"HU7602","cabin_code":"Y","from_city":"\u4e0a\u6d77","to_city":"\u5e03\u9c81\u585e\u5c14","from_airport":"\u8679\u6865\u56fd\u9645\u673a\u573a","to_airport":"\u9996\u90fd\u56fd\u9645\u673a\u573a","from_tower":"T2","to_tower":"T1","flight_duration":"2:15","is_share":0,"cross_day":1,"plane_model":"\u6ce2\u97f3787","stop_count":0,"type":"departure"},{"id":458,"order_id":207,"from_city_code":"SHA","to_city_code":"BRU","from_airport_code":"PEK","to_airport_code":"BRU","to_date":"2016-03-01 05:45:00","from_date":"2016-03-01 01:45:00","flight_no":"HU491","cabin_code":"E","from_city":"\u4e0a\u6d77","to_city":"\u5e03\u9c81\u585e\u5c14","from_airport":"\u9996\u90fd\u56fd\u9645\u673a\u573a","to_airport":"\u5e03\u9c81\u585e\u5c14\u56fd\u9645\u673a\u573a","from_tower":"T2","to_tower":"","flight_duration":"11:00","is_share":0,"cross_day":1,"plane_model":"\u7a7a\u5ba2333","stop_count":0,"type":"departure"}],"airPortInfo":{"departure":[{"id":458,"order_id":207,"from_city_code":"SHA","to_city_code":"BRU","from_airport_code":"PEK","to_airport_code":"BRU","to_date":"2016-03-01 05:45:00","from_date":"2016-03-01 01:45:00","flight_no":"HU491","cabin_code":"E","from_city":"\u4e0a\u6d77","to_city":"\u5e03\u9c81\u585e\u5c14","from_airport":"\u9996\u90fd\u56fd\u9645\u673a\u573a","to_airport":"\u5e03\u9c81\u585e\u5c14\u56fd\u9645\u673a\u573a","from_tower":"T2","to_tower":"","flight_duration":"11:00","is_share":0,"cross_day":1,"plane_model":"\u7a7a\u5ba2333","stop_count":0,"type":"departure"},{"id":458,"order_id":207,"from_city_code":"SHA","to_city_code":"BRU","from_airport_code":"PEK","to_airport_code":"BRU","to_date":"2016-03-01 05:45:00","from_date":"2016-03-01 01:45:00","flight_no":"HU491","cabin_code":"E","from_city":"\u4e0a\u6d77","to_city":"\u5e03\u9c81\u585e\u5c14","from_airport":"\u9996\u90fd\u56fd\u9645\u673a\u573a","to_airport":"\u5e03\u9c81\u585e\u5c14\u56fd\u9645\u673a\u573a","from_tower":"T2","to_tower":"","flight_duration":"11:00","is_share":0,"cross_day":1,"plane_model":"\u7a7a\u5ba2333","stop_count":0,"type":"departure"}]}}
+{
+	"showapi_res_code": 0,
+	"showapi_res_error": "",
+	"showapi_res_body": {
+		"cityInfo": {
+			"c1": "101010700",
+			"c10": "3",
+			"c11": "010",
+			"c12": "102200",
+			"c15": "80",
+			"c16": "AZ9010",
+			"c2": "changping",
+			"c3": "昌平",
+			"c4": "beijing",
+			"c5": "北京",
+			"c6": "beijing",
+			"c7": "北京",
+			"c8": "china",
+			"c9": "中国",
+			"latitude": 40.206,
+			"longitude": 116.165
+		},
+		"f1": {
+			"3hourForcast": [
+				{
+					"hour": "20时-23时 ",
+					"temperature": "12℃/10℃",
+					"weather": "晴",
+					"weather_pic": "http://app1.showapi.com/weather/icon/night/00.png",
+					"wind_direction": "无持续风向",
+					"wind_power": "微风"
+				},
+				{
+					"hour": "23时-02时 ",
+					"temperature": "10℃/9℃",
+					"weather": "晴",
+					"weather_pic": "http://app1.showapi.com/weather/icon/night/00.png",
+					"wind_direction": "无持续风向",
+					"wind_power": "微风"
+				},
+				{
+					"hour": "02时-05时 ",
+					"temperature": "10℃/9℃",
+					"weather": "晴",
+					"weather_pic": "http://app1.showapi.com/weather/icon/night/00.png",
+					"wind_direction": "无持续风向",
+					"wind_power": "微风"
+				},
+				{
+					"hour": "05时-08时 ",
+					"temperature": "13℃/10℃",
+					"weather": "晴",
+					"weather_pic": "http://app1.showapi.com/weather/icon/day/00.png",
+					"wind_direction": "无持续风向",
+					"wind_power": "微风"
+				}
+			],
+			"air_press": "1008 hPa",
+			"alarmList": [
+				{
+					"city": "",
+					"issueContent": "大风蓝色预警:预计23日23时到24日08时:大连、锦州、营口、盘锦、葫芦岛地区陆地偏北风6级,阵风7级;渤海、渤海海峡、黄海北部偏北风7级,阵风8级。大连、丹东、锦州、营口、盘锦、葫芦岛附近海域和航线将受影响,请注意防范。省气象灾害预警中心10月23日16时35分发布",
+					"issueTime": "2015-10-23 16:40:00",
+					"province": "辽宁省",
+					"signalLevel": "蓝色",
+					"signalType": "大风"
+				}
+			],
+			"day": "20151023",
+			"day_air_temperature": "18",
+			"day_weather": "晴",
+			"day_weather_pic": "http://app1.showapi.com/weather/icon/day/00.png",
+			"day_wind_direction": "无持续风向",
+			"day_wind_power": "微风<10m/h",
+			"index": {
+				"beauty": {
+					"desc": "请选用中性保湿型霜类化妆品。",
+					"title": "保湿"
+				},
+				"clothes": {
+					"desc": "建议穿薄外套或牛仔裤等服装。",
+					"title": "较舒适"
+				},
+				"cold": {
+					"desc": "昼夜温差大，易感冒。",
+					"title": "易发"
+				},
+				"comfort": {
+					"desc": "白天不冷不热，风力不大。",
+					"title": "舒适"
+				},
+				"glass": {
+					"desc": "白天根据户外光线情况佩戴太阳镜",
+					"title": "需要"
+				},
+				"sports": {
+					"desc": "户外运动请注意防晒。",
+					"title": "较适宜"
+				},
+				"travel": {
+					"desc": "天气较好，丝毫不会影响您出行的心情。",
+					"title": "适宜"
+				},
+				"uv": {
+					"desc": "辐射较弱，涂擦SPF12-15、PA+护肤品。",
+					"title": "弱"
+				},
+				"wash_car": {
+					"desc": "无雨且风力较小，易保持清洁度。",
+					"title": "较适宜"
+				}
+			},
+			"jiangshui": "3%",
+			"night_air_temperature": "9",
+			"night_weather": "晴",
+			"night_weather_pic": "http://app1.showapi.com/weather/icon/night/00.png",
+			"night_wind_direction": "无持续风向",
+			"night_wind_power": "微风<10m/h",
+			"sun_begin_end": "06:35|17:23",
+			"weekday": 5,
+			"ziwaixian": "中等"
+		},
+		"f2": {
+			"3hourForcast": [
+				{
+					"hour": "08时-11时 ",
+					"temperature": "14℃/13℃",
+					"weather": "多云",
+					"weather_pic": "http://app1.showapi.com/weather/icon/day/01.png",
+					"wind_direction": "无持续风向",
+					"wind_power": "微风"
+				},
+				{
+					"hour": "11时-14时 ",
+					"temperature": "17℃/14℃",
+					"weather": "多云",
+					"weather_pic": "http://app1.showapi.com/weather/icon/day/01.png",
+					"wind_direction": "无持续风向",
+					"wind_power": "微风"
+				},
+				{
+					"hour": "14时-17时 ",
+					"temperature": "17℃/14℃",
+					"weather": "多云",
+					"weather_pic": "http://app1.showapi.com/weather/icon/day/01.png",
+					"wind_direction": "无持续风向",
+					"wind_power": "微风"
+				},
+				{
+					"hour": "17时-20时 ",
+					"temperature": "14℃/13℃",
+					"weather": "多云",
+					"weather_pic": "http://app1.showapi.com/weather/icon/night/01.png",
+					"wind_direction": "无持续风向",
+					"wind_power": "微风"
+				},
+				{
+					"hour": "20时-23时 ",
+					"temperature": "13℃/8℃",
+					"weather": "晴",
+					"weather_pic": "http://app1.showapi.com/weather/icon/night/00.png",
+					"wind_direction": "无持续风向",
+					"wind_power": "微风"
+				},
+				{
+					"hour": "23时-02时 ",
+					"temperature": "8℃/7℃",
+					"weather": "晴",
+					"weather_pic": "http://app1.showapi.com/weather/icon/night/00.png",
+					"wind_direction": "无持续风向",
+					"wind_power": "微风"
+				},
+				{
+					"hour": "02时-05时 ",
+					"temperature": "7℃/6℃",
+					"weather": "晴",
+					"weather_pic": "http://app1.showapi.com/weather/icon/night/00.png",
+					"wind_direction": "无持续风向",
+					"wind_power": "微风"
+				},
+				{
+					"hour": "05时-08时 ",
+					"temperature": "9℃/6℃",
+					"weather": "晴",
+					"weather_pic": "http://app1.showapi.com/weather/icon/day/00.png",
+					"wind_direction": "无持续风向",
+					"wind_power": "微风"
+				}
+			],
+			"day": "20151024",
+			"day_air_temperature": "17",
+			"day_weather": "多云",
+			"day_weather_pic": "http://app1.showapi.com/weather/icon/day/01.png",
+			"day_wind_direction": "无持续风向",
+			"day_wind_power": "微风<10m/h",
+			"index": {
+				"beauty": {
+					"desc": "请选用保湿型霜类化妆品。",
+					"title": "保湿"
+				},
+				"clothes": {
+					"desc": "建议着厚外套加毛衣等服装。",
+					"title": "较冷"
+				},
+				"cold": {
+					"desc": "大幅度降温，适当增加衣服。",
+					"title": "易发"
+				},
+				"comfort": {
+					"desc": "白天不冷不热，风力不大。",
+					"title": "舒适"
+				},
+				"glass": {
+					"desc": "白天根据户外光线情况佩戴太阳镜",
+					"title": "需要"
+				},
+				"sports": {
+					"desc": "气温较低，推荐您进行室内运动。",
+					"title": "较适宜"
+				},
+				"travel": {
+					"desc": "天气较好，丝毫不会影响您出行的心情。",
+					"title": "适宜"
+				},
+				"uv": {
+					"desc": "辐射弱，涂擦SPF8-12防晒护肤品。",
+					"title": "最弱"
+				},
+				"wash_car": {
+					"desc": "无雨且风力较小，易保持清洁度。",
+					"title": "较适宜"
+				}
+			},
+			"night_air_temperature": "6",
+			"night_weather": "晴",
+			"night_weather_pic": "http://app1.showapi.com/weather/icon/night/00.png",
+			"night_wind_direction": "无持续风向",
+			"night_wind_power": "微风<10m/h",
+			"sun_begin_end": "06:35|17:23",
+			"weekday": 6
+		},
+		"f3": {
+			"3hourForcast": [
+				{
+					"hour": "08时-11时 ",
+					"temperature": "12℃/9℃",
+					"weather": "多云",
+					"weather_pic": "http://app1.showapi.com/weather/icon/day/01.png",
+					"wind_direction": "无持续风向",
+					"wind_power": "微风"
+				},
+				{
+					"hour": "11时-14时 ",
+					"temperature": "14℃/12℃",
+					"weather": "多云",
+					"weather_pic": "http://app1.showapi.com/weather/icon/day/01.png",
+					"wind_direction": "无持续风向",
+					"wind_power": "微风"
+				},
+				{
+					"hour": "14时-17时 ",
+					"temperature": "14℃/9℃",
+					"weather": "多云",
+					"weather_pic": "http://app1.showapi.com/weather/icon/day/01.png",
+					"wind_direction": "无持续风向",
+					"wind_power": "微风"
+				},
+				{
+					"hour": "17时-20时 ",
+					"temperature": "9℃/9℃",
+					"weather": "多云",
+					"weather_pic": "http://app1.showapi.com/weather/icon/night/01.png",
+					"wind_direction": "无持续风向",
+					"wind_power": "微风"
+				},
+				{
+					"hour": "20时-23时 ",
+					"temperature": "10℃/9℃",
+					"weather": "小雨",
+					"weather_pic": "http://app1.showapi.com/weather/icon/night/07.png",
+					"wind_direction": "无持续风向",
+					"wind_power": "微风"
+				},
+				{
+					"hour": "23时-02时 ",
+					"temperature": "10℃/8℃",
+					"weather": "小雨",
+					"weather_pic": "http://app1.showapi.com/weather/icon/night/07.png",
+					"wind_direction": "无持续风向",
+					"wind_power": "微风"
+				},
+				{
+					"hour": "02时-05时 ",
+					"temperature": "11℃/8℃",
+					"weather": "多云",
+					"weather_pic": "http://app1.showapi.com/weather/icon/night/01.png",
+					"wind_direction": "无持续风向",
+					"wind_power": "微风"
+				},
+				{
+					"hour": "05时-08时 ",
+					"temperature": "12℃/11℃",
+					"weather": "阴",
+					"weather_pic": "http://app1.showapi.com/weather/icon/day/02.png",
+					"wind_direction": "无持续风向",
+					"wind_power": "微风"
+				}
+			],
+			"day": "20151025",
+			"day_air_temperature": "14",
+			"day_weather": "多云",
+			"day_weather_pic": "http://app1.showapi.com/weather/icon/day/01.png",
+			"day_wind_direction": "无持续风向",
+			"day_wind_power": "微风<10m/h",
+			"index": {
+				"beauty": {
+					"desc": "请选用滋润保湿型化妆品。",
+					"title": "滋润保湿"
+				},
+				"clothes": {
+					"desc": "建议着厚外套加毛衣等服装。",
+					"title": "较冷"
+				},
+				"cold": {
+					"desc": "天较凉，增加衣服，注意防护。",
+					"title": "较易发"
+				},
+				"comfort": {
+					"desc": "白天阴沉，有点凉。",
+					"title": "较舒适"
+				},
+				"glass": {
+					"desc": "白天光线弱不需要佩戴太阳镜",
+					"title": "不需要"
+				},
+				"sports": {
+					"desc": "较适宜进行各种户内外运动。",
+					"title": "较适宜"
+				},
+				"travel": {
+					"desc": "风稍大，但仍可尽情享受大自然的风光。",
+					"title": "适宜"
+				},
+				"uv": {
+					"desc": "辐射弱，涂擦SPF8-12防晒护肤品。",
+					"title": "最弱"
+				},
+				"wash_car": {
+					"desc": "有雨，雨水和泥水会弄脏爱车。",
+					"title": "不宜"
+				}
+			},
+			"night_air_temperature": "8",
+			"night_weather": "小雨",
+			"night_weather_pic": "http://app1.showapi.com/weather/icon/night/07.png",
+			"night_wind_direction": "无持续风向",
+			"night_wind_power": "微风<10m/h",
+			"sun_begin_end": "06:35|17:23",
+			"weekday": 7
+		},
+		"f4": {
+			"3hourForcast": [
+				{
+					"hour": "08时-11时 ",
+					"temperature": "12℃/12℃",
+					"weather": "阴",
+					"weather_pic": "http://app1.showapi.com/weather/icon/day/02.png",
+					"wind_direction": "无持续风向转北风",
+					"wind_power": "微风转3-4级"
+				},
+				{
+					"hour": "11时-14时 ",
+					"temperature": "14℃/12℃",
+					"weather": "阴",
+					"weather_pic": "http://app1.showapi.com/weather/icon/day/02.png",
+					"wind_direction": "北风",
+					"wind_power": "3-4级"
+				},
+				{
+					"hour": "14时-17时 ",
+					"temperature": "14℃/12℃",
+					"weather": "阴",
+					"weather_pic": "http://app1.showapi.com/weather/icon/day/02.png",
+					"wind_direction": "北风",
+					"wind_power": "3-4级"
+				},
+				{
+					"hour": "17时-20时 ",
+					"temperature": "12℃/10℃",
+					"weather": "阴",
+					"weather_pic": "http://app1.showapi.com/weather/icon/night/02.png",
+					"wind_direction": "北风",
+					"wind_power": "3-4级"
+				},
+				{
+					"hour": "20时-02时 ",
+					"temperature": "10℃/8℃",
+					"weather": "晴",
+					"weather_pic": "http://app1.showapi.com/weather/icon/night/00.png",
+					"wind_direction": "北风",
+					"wind_power": "3-4级"
+				},
+				{
+					"hour": "02时-08时 ",
+					"temperature": "11℃/7℃",
+					"weather": "晴",
+					"weather_pic": "http://app1.showapi.com/weather/icon/day/00.png",
+					"wind_direction": "北风",
+					"wind_power": "3-4级"
+				}
+			],
+			"day": "20151026",
+			"day_air_temperature": "14",
+			"day_weather": "阴",
+			"day_weather_pic": "http://app1.showapi.com/weather/icon/day/02.png",
+			"day_wind_direction": "北风",
+			"day_wind_power": "3-4级10~17m/h",
+			"index": {
+				"beauty": {
+					"desc": "请选用中性保湿型霜类化妆品。",
+					"title": "保湿"
+				},
+				"clothes": {
+					"desc": "建议着厚外套加毛衣等服装。",
+					"title": "较冷"
+				},
+				"cold": {
+					"desc": "昼夜温差大，易感冒。",
+					"title": "易发"
+				},
+				"comfort": {
+					"desc": "白天不冷不热，风力不大。",
+					"title": "舒适"
+				},
+				"glass": {
+					"desc": "建议佩戴透射比为1级的遮阳镜",
+					"title": "必要"
+				},
+				"sports": {
+					"desc": "推荐进行室内运动。",
+					"title": "较适宜"
+				},
+				"travel": {
+					"desc": "风稍大，但仍可尽情享受大自然风光。",
+					"title": "适宜"
+				},
+				"uv": {
+					"desc": "涂擦SPF大于15、PA+防晒护肤品。",
+					"title": "中等"
+				},
+				"wash_car": {
+					"desc": "无雨且风力较小，易保持清洁度。",
+					"title": "较适宜"
+				}
+			},
+			"night_air_temperature": "7",
+			"night_weather": "晴",
+			"night_weather_pic": "http://app1.showapi.com/weather/icon/night/00.png",
+			"night_wind_direction": "北风",
+			"night_wind_power": "3-4级10~17m/h",
+			"sun_begin_end": "06:35|17:23",
+			"weekday": 1
+		},
+		"f5": {
+			"3hourForcast": [
+				{
+					"hour": "08时-14时 ",
+					"temperature": "16℃/11℃",
+					"weather": "晴",
+					"weather_pic": "http://app1.showapi.com/weather/icon/day/00.png",
+					"wind_direction": "北风",
+					"wind_power": "3-4级"
+				},
+				{
+					"hour": "14时-20时 ",
+					"temperature": "16℃/11℃",
+					"weather": "晴",
+					"weather_pic": "http://app1.showapi.com/weather/icon/night/00.png",
+					"wind_direction": "北风",
+					"wind_power": "3-4级"
+				},
+				{
+					"hour": "20时-02时 ",
+					"temperature": "11℃/7℃",
+					"weather": "晴",
+					"weather_pic": "http://app1.showapi.com/weather/icon/night/00.png",
+					"wind_direction": "北风转无持续风向",
+					"wind_power": "3-4级转微风"
+				},
+				{
+					"hour": "02时-08时 ",
+					"temperature": "14℃/5℃",
+					"weather": "晴",
+					"weather_pic": "http://app1.showapi.com/weather/icon/day/00.png",
+					"wind_direction": "无持续风向",
+					"wind_power": "微风"
+				}
+			],
+			"day": "20151027",
+			"day_air_temperature": "16",
+			"day_weather": "晴",
+			"day_weather_pic": "http://app1.showapi.com/weather/icon/day/00.png",
+			"day_wind_direction": "北风",
+			"day_wind_power": "3-4级10~17m/h",
+			"index": {
+				"beauty": {
+					"desc": "请选用滋润型化妆品。",
+					"title": "保湿"
+				},
+				"clothes": {
+					"desc": "建议着厚外套加毛衣等服装。",
+					"title": "较冷"
+				},
+				"cold": {
+					"desc": "大幅度降温，风力较大，易感冒。",
+					"title": "易发"
+				},
+				"comfort": {
+					"desc": "白天晴，风力大，早晚偏凉，午后舒适。",
+					"title": "较舒适"
+				},
+				"glass": {
+					"desc": "建议佩戴透射比为1级的遮阳镜",
+					"title": "必要"
+				},
+				"sports": {
+					"desc": "推荐进行室内运动。",
+					"title": "较适宜"
+				},
+				"travel": {
+					"desc": "风稍大，但仍可尽情享受大自然风光。",
+					"title": "适宜"
+				},
+				"uv": {
+					"desc": "涂擦SPF大于15、PA+防晒护肤品。",
+					"title": "中等"
+				},
+				"wash_car": {
+					"desc": "风力较大，洗车后会蒙上灰尘。",
+					"title": "较不宜"
+				}
+			},
+			"night_air_temperature": "5",
+			"night_weather": "晴",
+			"night_weather_pic": "http://app1.showapi.com/weather/icon/night/00.png",
+			"night_wind_direction": "无持续风向",
+			"night_wind_power": "微风<10m/h",
+			"sun_begin_end": "06:35|17:23",
+			"weekday": 2
+		},
+		"f6": {
+			"3hourForcast": [
+				{
+					"hour": "08时-14时 ",
+					"temperature": "14℃/14℃",
+					"weather": "晴",
+					"weather_pic": "http://app1.showapi.com/weather/icon/day/00.png",
+					"wind_direction": "无持续风向转北风",
+					"wind_power": "微风转4-5级"
+				},
+				{
+					"hour": "14时-20时 ",
+					"temperature": "14℃/10℃",
+					"weather": "晴",
+					"weather_pic": "http://app1.showapi.com/weather/icon/night/00.png",
+					"wind_direction": "北风",
+					"wind_power": "4-5级"
+				},
+				{
+					"hour": "20时-02时 ",
+					"temperature": "10℃/9℃",
+					"weather": "晴",
+					"weather_pic": "http://app1.showapi.com/weather/icon/night/00.png",
+					"wind_direction": "北风",
+					"wind_power": "4-5级"
+				},
+				{
+					"hour": "02时-08时 ",
+					"temperature": "14℃/6℃",
+					"weather": "晴",
+					"weather_pic": "http://app1.showapi.com/weather/icon/day/00.png",
+					"wind_direction": "北风",
+					"wind_power": "4-5级"
+				}
+			],
+			"day": "20151028",
+			"day_air_temperature": "14",
+			"day_weather": "晴",
+			"day_weather_pic": "http://app1.showapi.com/weather/icon/day/00.png",
+			"day_wind_direction": "北风",
+			"day_wind_power": "4-5级17~25m/h",
+			"index": {
+				"beauty": {
+					"desc": "请选用中性保湿型霜类化妆品。",
+					"title": "保湿"
+				},
+				"clothes": {
+					"desc": "建议穿薄外套或牛仔裤等服装。",
+					"title": "较舒适"
+				},
+				"cold": {
+					"desc": "昼夜温差大，易感冒。",
+					"title": "易发"
+				},
+				"comfort": {
+					"desc": "白天不冷不热，风力不大。",
+					"title": "舒适"
+				},
+				"glass": {
+					"desc": "建议佩戴透射比为1级的遮阳镜",
+					"title": "必要"
+				},
+				"sports": {
+					"desc": "风力较大，推荐您进行室内运动。",
+					"title": "较适宜"
+				},
+				"travel": {
+					"desc": "风稍大，但仍可尽情享受大自然风光。",
+					"title": "适宜"
+				},
+				"uv": {
+					"desc": "涂擦SPF大于15、PA+防晒护肤品。",
+					"title": "中等"
+				},
+				"wash_car": {
+					"desc": "无雨且风力较小，易保持清洁度。",
+					"title": "较适宜"
+				}
+			},
+			"night_air_temperature": "6",
+			"night_weather": "晴",
+			"night_weather_pic": "http://app1.showapi.com/weather/icon/night/00.png",
+			"night_wind_direction": "北风",
+			"night_wind_power": "4-5级17~25m/h",
+			"sun_begin_end": "06:35|17:23",
+			"weekday": 3
+		},
+		"f7": {
+			"3hourForcast": [
+				{
+					"hour": "08时-14时 ",
+					"temperature": "14℃/11℃",
+					"weather": "晴",
+					"weather_pic": "http://app1.showapi.com/weather/icon/day/00.png",
+					"wind_direction": "北风",
+					"wind_power": "4-5级转3-4级"
+				},
+				{
+					"hour": "14时-20时 ",
+					"temperature": "11℃/8℃",
+					"weather": "晴",
+					"weather_pic": "http://app1.showapi.com/weather/icon/night/00.png",
+					"wind_direction": "北风",
+					"wind_power": "3-4级"
+				},
+				{
+					"hour": "20时-02时 ",
+					"temperature": "8℃/7℃",
+					"weather": "晴",
+					"weather_pic": "http://app1.showapi.com/weather/icon/night/00.png",
+					"wind_direction": "北风",
+					"wind_power": "3-4级"
+				},
+				{
+					"hour": "02时-08时 ",
+					"temperature": "12℃/5℃",
+					"weather": "晴",
+					"weather_pic": "http://app1.showapi.com/weather/icon/day/00.png",
+					"wind_direction": "北风",
+					"wind_power": "3-4级"
+				}
+			],
+			"day": "20151029",
+			"day_air_temperature": "14",
+			"day_weather": "晴",
+			"day_weather_pic": "http://app1.showapi.com/weather/icon/day/00.png",
+			"day_wind_direction": "北风",
+			"day_wind_power": "3-4级10~17m/h",
+			"index": {
+				"beauty": {
+					"desc": "请选用保湿型霜类化妆品。",
+					"title": "保湿"
+				},
+				"clothes": {
+					"desc": "建议着厚外套加毛衣等服装。",
+					"title": "较冷"
+				},
+				"cold": {
+					"desc": "强降温，极易感冒。",
+					"title": "极易发"
+				},
+				"comfort": {
+					"desc": "白天降雨，有些凉意。",
+					"title": "较舒适"
+				},
+				"glass": {
+					"desc": "白天能见度差不需要佩戴太阳镜",
+					"title": "不需要"
+				},
+				"sports": {
+					"desc": "有降水，推荐您在室内进行休闲运动。",
+					"title": "较不宜"
+				},
+				"travel": {
+					"desc": "较弱降水和微风将伴您共赴旅程。",
+					"title": "适宜"
+				},
+				"uv": {
+					"desc": "辐射弱，涂擦SPF8-12防晒护肤品。",
+					"title": "最弱"
+				}
+			},
+			"night_air_temperature": "5",
+			"night_weather": "晴",
+			"night_weather_pic": "http://app1.showapi.com/weather/icon/night/00.png",
+			"night_wind_direction": "北风",
+			"night_wind_power": "3-4级10~17m/h",
+			"sun_begin_end": "06:35|17:23",
+			"weekday": 4
+		},
+		"hourDataList": [
+			{
+				"aqi": "53",
+				"aqiDetail": {},
+				"sd": "85%",
+				"temperature": "9",
+				"temperature_time": "00:00",
+				"weather": "多云",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/night/01.png",
+				"wind_direction": "北风",
+				"wind_power": "1级"
+			},
+			{
+				"aqi": "53",
+				"aqiDetail": {},
+				"sd": "81%",
+				"temperature": "10",
+				"temperature_time": "00:30",
+				"weather": "多云",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/night/01.png",
+				"wind_direction": "北风",
+				"wind_power": "1级"
+			},
+			{
+				"aqi": "53",
+				"aqiDetail": {},
+				"sd": "83%",
+				"temperature": "9",
+				"temperature_time": "01:00",
+				"weather": "多云",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/night/01.png",
+				"wind_direction": "东北风",
+				"wind_power": "1级"
+			},
+			{
+				"aqi": "53",
+				"aqiDetail": {},
+				"sd": "85%",
+				"temperature": "9",
+				"temperature_time": "01:30",
+				"weather": "多云",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/night/01.png",
+				"wind_direction": "西北风",
+				"wind_power": "1级"
+			},
+			{
+				"aqi": "36",
+				"aqiDetail": {},
+				"sd": "87%",
+				"temperature": "9",
+				"temperature_time": "02:00",
+				"weather": "多云",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/night/01.png",
+				"wind_direction": "西北风",
+				"wind_power": "1级"
+			},
+			{
+				"aqi": "36",
+				"aqiDetail": {},
+				"sd": "88%",
+				"temperature": "9",
+				"temperature_time": "02:30",
+				"weather": "多云",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/night/01.png",
+				"wind_direction": "北风",
+				"wind_power": "1级"
+			},
+			{
+				"aqi": "36",
+				"aqiDetail": {},
+				"sd": "88%",
+				"temperature": "9",
+				"temperature_time": "03:00",
+				"weather": "多云",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/night/01.png",
+				"wind_direction": "北风",
+				"wind_power": "1级"
+			},
+			{
+				"aqi": "36",
+				"aqiDetail": {},
+				"sd": "88%",
+				"temperature": "9",
+				"temperature_time": "03:30",
+				"weather": "多云",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/night/01.png",
+				"wind_direction": "北风",
+				"wind_power": "1级"
+			},
+			{
+				"aqi": "35",
+				"aqiDetail": {},
+				"sd": "88%",
+				"temperature": "9",
+				"temperature_time": "04:00",
+				"weather": "多云",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/night/01.png",
+				"wind_direction": "北风",
+				"wind_power": "1级"
+			},
+			{
+				"aqi": "35",
+				"aqiDetail": {},
+				"sd": "88%",
+				"temperature": "9",
+				"temperature_time": "04:30",
+				"weather": "多云",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/night/01.png",
+				"wind_direction": "北风",
+				"wind_power": "1级"
+			},
+			{
+				"aqi": "33",
+				"aqiDetail": {},
+				"sd": "88%",
+				"temperature": "9",
+				"temperature_time": "05:00",
+				"weather": "多云",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/night/01.png",
+				"wind_direction": "北风",
+				"wind_power": "1级"
+			},
+			{
+				"aqi": "33",
+				"aqiDetail": {},
+				"sd": "88%",
+				"temperature": "9",
+				"temperature_time": "05:30",
+				"weather": "多云",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/night/01.png",
+				"wind_direction": "北风",
+				"wind_power": "1级"
+			},
+			{
+				"aqi": "33",
+				"aqiDetail": {},
+				"sd": "88%",
+				"temperature": "9",
+				"temperature_time": "06:00",
+				"weather": "多云",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/night/01.png",
+				"wind_direction": "北风",
+				"wind_power": "1级"
+			},
+			{
+				"aqi": "55",
+				"aqiDetail": {},
+				"sd": "93%",
+				"temperature": "8",
+				"temperature_time": "06:30",
+				"weather": "多云",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/night/01.png",
+				"wind_direction": "北风",
+				"wind_power": "1级"
+			},
+			{
+				"aqi": "55",
+				"aqiDetail": {},
+				"sd": "93%",
+				"temperature": "8",
+				"temperature_time": "07:00",
+				"weather": "多云",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/night/01.png",
+				"wind_direction": "北风",
+				"wind_power": "1级"
+			},
+			{
+				"aqi": "55",
+				"aqiDetail": {},
+				"sd": "94%",
+				"temperature": "8",
+				"temperature_time": "07:30",
+				"weather": "多云",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/night/01.png",
+				"wind_direction": "西北风",
+				"wind_power": "1级"
+			},
+			{
+				"aqi": "55",
+				"aqiDetail": {},
+				"sd": "92%",
+				"temperature": "9",
+				"temperature_time": "08:00",
+				"weather": "多云",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/night/01.png",
+				"wind_direction": "西风",
+				"wind_power": "1级"
+			},
+			{
+				"aqi": "55",
+				"aqiDetail": {},
+				"sd": "87%",
+				"temperature": "10",
+				"temperature_time": "08:30",
+				"weather": "多云",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/day/01.png",
+				"wind_direction": "南风",
+				"wind_power": "1级"
+			},
+			{
+				"aqi": "55",
+				"aqiDetail": {},
+				"sd": "78%",
+				"temperature": "11",
+				"temperature_time": "09:00",
+				"weather": "多云",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/day/01.png",
+				"wind_direction": "东风",
+				"wind_power": "1级"
+			},
+			{
+				"aqi": "55",
+				"aqiDetail": {},
+				"sd": "75%",
+				"temperature": "11",
+				"temperature_time": "09:30",
+				"weather": "多云",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/day/01.png",
+				"wind_direction": "东风",
+				"wind_power": "1级"
+			},
+			{
+				"aqi": "69",
+				"aqiDetail": {},
+				"sd": "75%",
+				"temperature": "12",
+				"temperature_time": "10:00",
+				"weather": "多云",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/day/01.png",
+				"wind_direction": "东风",
+				"wind_power": "1级"
+			},
+			{
+				"aqi": "69",
+				"aqiDetail": {},
+				"sd": "69%",
+				"temperature": "13",
+				"temperature_time": "10:30",
+				"weather": "多云",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/day/01.png",
+				"wind_direction": "南风",
+				"wind_power": "1级"
+			},
+			{
+				"aqi": "55",
+				"aqiDetail": {},
+				"sd": "69%",
+				"temperature": "14",
+				"temperature_time": "11:00",
+				"weather": "多云",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/day/01.png",
+				"wind_direction": "西风",
+				"wind_power": "1级"
+			},
+			{
+				"aqi": "55",
+				"aqiDetail": {},
+				"sd": "65%",
+				"temperature": "15",
+				"temperature_time": "11:30",
+				"weather": "多云",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/day/01.png",
+				"wind_direction": "南风",
+				"wind_power": "2级"
+			},
+			{
+				"aqi": "55",
+				"aqiDetail": {},
+				"sd": "62%",
+				"temperature": "16",
+				"temperature_time": "12:00",
+				"weather": "多云",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/day/01.png",
+				"wind_direction": "东南风",
+				"wind_power": "1级"
+			},
+			{
+				"aqi": "55",
+				"aqiDetail": {},
+				"sd": "60%",
+				"temperature": "16",
+				"temperature_time": "12:30",
+				"weather": "多云",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/day/01.png",
+				"wind_direction": "南风",
+				"wind_power": "2级"
+			},
+			{
+				"aqi": "59",
+				"aqiDetail": {},
+				"sd": "57%",
+				"temperature": "17",
+				"temperature_time": "13:00",
+				"weather": "晴",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/day/00.png",
+				"wind_direction": "西南风",
+				"wind_power": "2级"
+			},
+			{
+				"aqi": "59",
+				"aqiDetail": {},
+				"sd": "55%",
+				"temperature": "17",
+				"temperature_time": "13:30",
+				"weather": "晴",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/day/00.png",
+				"wind_direction": "南风",
+				"wind_power": "1级"
+			},
+			{
+				"aqi": "60",
+				"aqiDetail": {},
+				"sd": "53%",
+				"temperature": "18",
+				"temperature_time": "14:00",
+				"weather": "晴",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/day/00.png",
+				"wind_direction": "东南风",
+				"wind_power": "1级"
+			},
+			{
+				"aqi": "60",
+				"aqiDetail": {},
+				"sd": "52%",
+				"temperature": "19",
+				"temperature_time": "14:30",
+				"weather": "晴",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/day/00.png",
+				"wind_direction": "南风",
+				"wind_power": "2级"
+			},
+			{
+				"aqi": "64",
+				"aqiDetail": {},
+				"sd": "49%",
+				"temperature": "19",
+				"temperature_time": "15:00",
+				"weather": "晴",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/day/00.png",
+				"wind_direction": "东南风",
+				"wind_power": "2级"
+			},
+			{
+				"aqi": "64",
+				"aqiDetail": {},
+				"sd": "49%",
+				"temperature": "19",
+				"temperature_time": "15:30",
+				"weather": "晴",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/day/00.png",
+				"wind_direction": "南风",
+				"wind_power": "2级"
+			},
+			{
+				"aqi": "64",
+				"aqiDetail": {},
+				"sd": "55%",
+				"temperature": "19",
+				"temperature_time": "16:00",
+				"weather": "晴",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/day/00.png",
+				"wind_direction": "东南风",
+				"wind_power": "2级"
+			},
+			{
+				"aqi": "69",
+				"aqiDetail": {},
+				"sd": "55%",
+				"temperature": "18",
+				"temperature_time": "16:30",
+				"weather": "晴",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/day/00.png",
+				"wind_direction": "南风",
+				"wind_power": "2级"
+			},
+			{
+				"aqi": "68",
+				"aqiDetail": {},
+				"sd": "57%",
+				"temperature": "18",
+				"temperature_time": "17:00",
+				"weather": "晴",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/day/00.png",
+				"wind_direction": "东南风",
+				"wind_power": "2级"
+			},
+			{
+				"aqi": "68",
+				"aqiDetail": {},
+				"sd": "60%",
+				"temperature": "17",
+				"temperature_time": "17:30",
+				"weather": "晴",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/day/00.png",
+				"wind_direction": "东风",
+				"wind_power": "1级"
+			},
+			{
+				"aqi": "80",
+				"aqiDetail": {},
+				"sd": "63%",
+				"temperature": "16",
+				"temperature_time": "18:00",
+				"weather": "晴",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/day/00.png",
+				"wind_direction": "东风",
+				"wind_power": "1级"
+			},
+			{
+				"aqi": "80",
+				"aqiDetail": {},
+				"sd": "70%",
+				"temperature": "15",
+				"temperature_time": "18:30",
+				"weather": "晴",
+				"weather_pic": "http://appimg.showapi.com/images/weather/icon/day/00.png",
+				"wind_direction": "北风",
+				"wind_power": "1级"
+			}
+		],
+		"now": {
+			"aqi": 71,
+			"aqiDetail": {
+				"aqi": 71,
+				"area": "北京",
+				"area_code": "beijing",
+				"co": 0.817,
+				"no2": 52,
+				"o3": 33,
+				"o3_8h": 9,
+				"pm10": 56,
+				"pm2_5": 51,
+				"primary_pollutant": "颗粒物(PM2.5)",
+				"quality": "良",
+				"so2": 3
+			},
+			"sd": "70%",
+			"temperature": "15",
+			"temperature_time": "18:30",
+			"weather": "晴",
+			"weather_pic": "http://appimg.showapi.com/images/weather/icon/day/00.png",
+			"wind_direction": "北风",
+			"wind_power": "1级"
+		},
+		"ret_code": 0,
+		"time": "20151023180000"
+	}
+}
